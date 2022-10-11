@@ -49,7 +49,8 @@ This project implements the gossip algorithm which is used for propagation of th
       | PushSum   | Imp 2D   | 32768   | 7611                       |
        
       
- ##REPORT
+ <img width="780" alt="gossip2D" src="https://user-images.githubusercontent.com/57837608/194991466-57cac5ec-8be8-42bb-b513-5528f03d12d5.png">
+
  
  
 
