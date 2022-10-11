@@ -48,8 +48,32 @@ This project implements the gossip algorithm which is used for propagation of th
       | PushSum   | 2D       | 8192    | 144905                     |
       | PushSum   | Imp 2D   | 32768   | 7611                       |
        
-      
- <img width="780" alt="gossip2D" src="https://user-images.githubusercontent.com/57837608/194991466-57cac5ec-8be8-42bb-b513-5528f03d12d5.png">
+
+Line Topology for Gossip Algorithm
+<img width="864" alt="gossipLine" src="https://user-images.githubusercontent.com/57837608/194991595-26ee7bff-77a5-4692-8658-003f2bfe9f72.png">
+
+Full Network Topology for Gossip Algorithm
+<img width="889" alt="GossipFull" src="https://user-images.githubusercontent.com/57837608/194991610-1451884d-37f3-476a-9598-83b7e4b4de26.png">
+
+2D Topology for Gossip Algorithm
+<img width="780" alt="gossip2D" src="https://user-images.githubusercontent.com/57837608/194991624-f114a448-d2ca-4b11-8bb1-4a484a292bc2.png">
+
+
+Imp 3D for Gossip Algorithm <br/>
+<img width="714" alt="gossipImp2D" src="https://user-images.githubusercontent.com/57837608/194991637-3d1d112a-b00b-4416-a1b5-9548da331e00.png">
+
+Line Topology for PushSum Algorithm
+<img width="841" alt="PushSumLine" src="https://user-images.githubusercontent.com/57837608/194991654-92bc3094-e5ea-4096-ac1b-0f27c5cbbf32.png">
+
+Full Network Topology for PushSum Algorithm
+<img width="769" alt="PushSumFull" src="https://user-images.githubusercontent.com/57837608/194991662-57900572-4a82-4b64-86f5-1927977483ab.png">
+
+2D Topology for PushSum Algorithm
+<img width="775" alt="PushSum2D" src="https://user-images.githubusercontent.com/57837608/194991669-0f10896c-c28f-4e2c-91c0-e7d6f0c6c143.png">
+
+Imp 3D Topology for PushSum Algorithm
+<img width="844" alt="PushSumImp2D" src="https://user-images.githubusercontent.com/57837608/194991679-cd2f5509-11e9-4e85-b877-36e3354c7b9d.png">
+
 
  
  
